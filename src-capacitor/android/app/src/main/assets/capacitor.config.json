@@ -1,0 +1,7 @@
+{
+  "appId": "com.repro.sentry.app",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
